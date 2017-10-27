@@ -1,3 +1,9 @@
+# ⚠️WARNING: Deprecated
+
+**This plugin is deprecated. Because it usage pretty complex, and I created a new one what have better usability.**
+
+**See [logstash-filter-memoize](https://github.com/sw-jung/logstash-filter-memoize)**
+
 # Logstash Plugin
 
 This is a plugin for [Logstash](https://github.com/elastic/logstash).
